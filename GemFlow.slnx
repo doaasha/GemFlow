@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GemFlow.API/GemFlow.API.csproj" />
+  <Project Path="GemFlow.Core/GemFlow.Core.csproj" />
+  <Project Path="GemFlow.Infrastructure/GemFlow.Infrastructure.csproj" />
+  <Project Path="GemFlow.Services/GemFlow.Services.csproj" />
+</Solution>
